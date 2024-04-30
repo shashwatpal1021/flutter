@@ -19,5 +19,3 @@ void main(){
 
 // -> indentifiers cannot contain spaces.
 
-
-mkgitgit 
